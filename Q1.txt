@@ -1,0 +1,2 @@
+Q1.write a blog on the difference between window and document objects
+Answer => The window object represents a window/tab containing a DOM document where as document object is property of window object that points to the DOM document loaded in that window.
